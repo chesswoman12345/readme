@@ -22,7 +22,9 @@ On utilise
 ![](https://github.com/user-attachments/assets/b73706a7-abd7-45ce-b42d-b400bb078d56)
 ![](https://github.com/user-attachments/assets/4294c65e-57bf-4728-880b-3c47ba587643)
 
+# Faire adb version et adb devices 
 ![](https://github.com/user-attachments/assets/0f2e201d-9198-4ac3-81e4-b0da0ae95fd1)
+
 
 
 
