@@ -1,7 +1,7 @@
 # voir adresse 
 ![](https://github.com/user-attachments/assets/2c864fc8-c595-49ed-bddd-4ba11d825242)
 
-> [!WARNING]
+> [!ERROR]
 > On remarque que enp0s17 est qatteint.
 > enp0s17 doit etre activer par la commande : 
 > ~~~sh
@@ -24,6 +24,7 @@ On utilise
 
 # Faire adb version et adb devices 
 ![](https://github.com/user-attachments/assets/0f2e201d-9198-4ac3-81e4-b0da0ae95fd1)
+
 
 
 
